@@ -1,0 +1,54 @@
+body {
+	/* background: #04908a;*/
+	/**background-color: #ed7d0d; **/
+	font-family: 'Walter Turncoat', cursive;
+	font-weight: bolder;
+	font-size: 205%;
+	text-align: center;
+	background: black;
+	color: white;
+
+/*background: url("/Users/JennTurner/Dropbox/THINKFUL/THINKFUL UNIT 3/oitnb-quiz/images/beverlyhills-90210-gang.jpg");*/
+/* background-position: right top;
+background-repeat: no-repeat; */
+
+}
+
+#i-letter {
+	font-size: 215%;
+}
+
+
+ #love{
+	color: #bc1041;
+	font-size: 215%
+	
+}
+
+#the {
+	/* color: #1e84b8; */
+	/*color: #ed7d0d; */
+	color: #651a84;
+}
+
+#nineties {
+	color: #409b04;
+	font-size: 215%
+
+}
+
+.questions {
+	list-style: none;
+	font-size: 80%;
+}
+
+
+
+ .jerome-martin {
+text-align: center;
+color: #04908a;
+}
+
+.jerome-martin a:hover {
+	color:#bc1041;
+	}
