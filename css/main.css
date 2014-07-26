@@ -42,13 +42,46 @@ background-repeat: no-repeat; */
 	font-size: 80%;
 }
 
+.text-color {
+	color: #04908a;
+}
 
+.text-color a:hover {
+	color: #bc1041;
+}
 
  .jerome-martin {
 text-align: center;
-color: #04908a;
+/*color: #04908a;*/
 }
 
-.jerome-martin a:hover {
+.houseparty {
+	margin-top: 60px;
+}
+
+.rock {
+	margin-top: 60px;
+}
+
+.hair {
+	margin-top: 60px;
+}
+
+.beverly-hills-90210 {
+	margin-top: 60px;
+}
+
+.super-mario {
+	margin-top: 60px;
+}
+/*.jerome-martin a:hover {
 	color:#bc1041;
 	}
+
+.houseparty {
+	color: #04908a;
+}
+
+.houseparty a:hover {
+	color: #bc1041;
+} */ 
